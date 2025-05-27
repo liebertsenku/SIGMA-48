@@ -1,0 +1,9 @@
+[
+  {
+    "username": "kejatampan",
+    "password": "keja123",
+    "role": "ADMIN",
+    "namaLengkap": "Administrator Utama",
+    "aktif": true
+  }
+]
